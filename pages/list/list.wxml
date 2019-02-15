@@ -1,0 +1,4 @@
+<!--pages/list/list.wxml-->
+<view>
+<text>好人</text>
+</view>
